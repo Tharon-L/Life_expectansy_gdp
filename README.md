@@ -39,7 +39,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 1. Life Expectancy Trends (Line Plot)
 
-![Life Expectancy Trends](https://placehold.co/600x300?text=Life+Expectancy+Trends)
+![Life Expectancy Trends by Country (2000-2015)](https://github.com/user-attachments/assets/d03bbc08-216a-42fa-b909-6d1f1fde66ba)
+
 
 **Analysis:**
 - All countries show generally positive trends in life expectancy from 2000-2015
@@ -59,7 +60,7 @@ The analysis uses `all_data.csv` which contains:
 
 ### 3. Country Comparison (Bar Plot)
 
-![Country Comparison](https://placehold.co/600x300?text=Country+Comparison+2015)
+![Life Expectancy by Country (2015)](https://github.com/user-attachments/assets/b741709e-d92a-49f0-852f-565d2e33e706)
 
 **Analysis:**
 - Despite having the highest GDP, the U.S. doesn't lead in life expectancy
@@ -69,7 +70,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 4. Multi-factor Analysis (Pair Plots)
 
-![Pair Plot Analysis](https://placehold.co/600x300?text=Pair+Plot+Analysis)
+![GDP vs Life Expectancy (2000-2015)](https://github.com/user-attachments/assets/0dae439b-cc9e-4769-a80a-d62557442cad)
+
 
 **Analysis:**
 - Comprehensive view of relationships between year, GDP, and life expectancy
