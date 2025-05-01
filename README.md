@@ -135,7 +135,3 @@ The findings support targeted development strategies that prioritize both econom
 ## 🔗 Resources
 
 For a complete analysis and interactive visualizations, please visit my article on the [My blog][(https://example.who.int/gdp-life-expectancy-analysis)](https://medium.com/@loudiern.tharon.pro/the-gdp-life-expectancy-connection-what-global-data-reveals-about-our-health-e9dd0becfe22).
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
