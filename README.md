@@ -1,6 +1,6 @@
 # Life Expectancy & GDP Analysis
 
-![Project Banner](https://placehold.co/600x200?text=Life+Expectancy+%26+GDP+Analysis)
+![Life_GPD_Project](https://github.com/user-attachments/assets/e5afdcf9-bd0b-4714-95e3-0df13f0c9516)
 
 ## 📊 Project Overview
 
@@ -50,7 +50,7 @@ The analysis uses `all_data.csv` which contains:
 
 ### 2. GDP vs. Life Expectancy (Scatter Plot with Trend Lines)
 
-![GDP vs Life Expectancy](https://placehold.co/600x300?text=GDP+vs+Life+Expectancy)
+![GDP vs Life Expectancy (2000-2015)](https://github.com/user-attachments/assets/0dae439b-cc9e-4769-a80a-d62557442cad)
 
 **Analysis:**
 - Positive correlation between GDP and life expectancy across most countries
@@ -70,7 +70,7 @@ The analysis uses `all_data.csv` which contains:
 
 ### 4. Multi-factor Analysis (Pair Plots)
 
-![GDP vs Life Expectancy (2000-2015)](https://github.com/user-attachments/assets/0dae439b-cc9e-4769-a80a-d62557442cad)
+![Pair Plot Analysis](https://github.com/user-attachments/assets/8467a097-5215-459a-ae0e-014f57df4868)
 
 
 **Analysis:**
