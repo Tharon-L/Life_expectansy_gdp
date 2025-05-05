@@ -39,7 +39,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 1. Life Expectancy Trends (Line Plot)
 
-![Life Expectancy Trends by Country (2000-2015)](https://github.com/user-attachments/assets/d03bbc08-216a-42fa-b909-6d1f1fde66ba)
+![Life Expectancy Trends by Country (2000-2015)](https://github.com/user-attachments/assets/2dcd9f46-4a5c-4b97-8bfc-4317f253ea87)
+
 
 
 **Analysis:**
@@ -50,7 +51,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 2. GDP vs. Life Expectancy (Scatter Plot with Trend Lines)
 
-![GDP vs Life Expectancy (2000-2015)](https://github.com/user-attachments/assets/0dae439b-cc9e-4769-a80a-d62557442cad)
+![GDP vs Life Expectancy (2000-2015)](https://github.com/user-attachments/assets/1c027ff6-4613-4504-9190-b9a153f0cc0d)
+
 
 **Analysis:**
 - Positive correlation between GDP and life expectancy across most countries
@@ -60,7 +62,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 3. Country Comparison (Bar Plot)
 
-![Life Expectancy by Country (2015)](https://github.com/user-attachments/assets/b741709e-d92a-49f0-852f-565d2e33e706)
+![Life Expectancy by Country (2015)](https://github.com/user-attachments/assets/e969cc84-150d-4f06-88a7-2ad4ffc0becc)
+
 
 **Analysis:**
 - Despite having the highest GDP, the U.S. doesn't lead in life expectancy
@@ -70,7 +73,8 @@ The analysis uses `all_data.csv` which contains:
 
 ### 4. Multi-factor Analysis (Pair Plots)
 
-![Pair Plot Analysis](https://github.com/user-attachments/assets/8467a097-5215-459a-ae0e-014f57df4868)
+![Pair Plot Analysis](https://github.com/user-attachments/assets/b6722d91-2b17-4952-904d-58739ee9fcbe)
+
 
 
 **Analysis:**
