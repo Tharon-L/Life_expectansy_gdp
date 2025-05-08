@@ -121,14 +121,6 @@ This project enhanced my skills in:
   - Layout optimization for complex figures
   - Annotation techniques for highlighting insights
 
-## 🔮 Future Work
-
-Potential extensions of this analysis include:
-
-- Incorporating additional health metrics (infant mortality, healthcare access)
-- Expanding the country sample for more comprehensive global insights
-- Including demographic factors (age distribution, urbanization)
-- Time-series forecasting for projecting future trends
 
 ## 📝 Conclusion
 
